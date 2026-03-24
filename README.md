@@ -33,7 +33,7 @@ git clone https://github.com/eshlykov/ksdl.git
 cd ksdl
 ```
 
-Build and install the binary to `/usr/local/bin` in one step (requires all prerequisites to already be installed):
+Build and install the binary to `$(go env GOPATH)/bin` in one step (requires all prerequisites to already be installed):
 
 ```bash
 make install

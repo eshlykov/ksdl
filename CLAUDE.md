@@ -14,7 +14,7 @@ mp4decrypt, and ffmpeg.
 ```bash
 go build -o ksdl .   # build binary
 go test ./...        # run all tests
-make install         # build and install to /usr/local/bin
+make install         # build and install to $(go env GOPATH)/bin
 ```
 
 ## Architecture
