@@ -30,7 +30,7 @@ The following external tools must be available in your `PATH`:
 | [mp4decrypt](https://www.bento4.com) | `brew install bento4` |
 | [ffmpeg](https://ffmpeg.org) | `brew install ffmpeg` |
 
-Go 1.25 or later is required to build from source.
+[Go 1.25 or later](https://go.dev/dl/) is required to build from source. `make` is required to use the Makefile commands (`xcode-select --install` on macOS, pre-installed on most Linux systems).
 
 ## Installation
 
