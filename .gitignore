@@ -1,0 +1,15 @@
+# Compiled binary
+ksdl
+
+# Download temp directories created during pipeline execution
+kinescope-*/
+
+# Output video files (in case ksdl is run from the repo directory)
+*.mp4
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
