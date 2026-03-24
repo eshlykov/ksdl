@@ -146,3 +146,7 @@ go test ./...
 | `internal/kinescope` | HTTP client: fetches embed pages, playlists, and decryption keys |
 | `internal/media` | Wrappers around N_m3u8DL-RE, yt-dlp, mp4decrypt, and ffmpeg |
 | `internal/downloader` | Orchestrates the full pipeline for a single video |
+
+## Disclaimer
+
+This tool is intended for personal use only, to download videos you are authorized to access. Downloading or distributing content without authorization may violate Kinescope's [Terms of Service](https://www.kinescope.com/user-agreement) and applicable law. The author assumes no responsibility for misuse.
