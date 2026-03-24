@@ -1,5 +1,10 @@
 # ksdl
 
+[![CI](https://github.com/eshlykov/ksdl/actions/workflows/ci.yml/badge.svg)](https://github.com/eshlykov/ksdl/actions/workflows/ci.yml)
+[![Go version](https://img.shields.io/github/go-mod/go-version/eshlykov/ksdl)](https://go.dev/dl/)
+[![License: MIT](https://img.shields.io/github/license/eshlykov/ksdl)](LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/eshlykov/ksdl)](https://goreportcard.com/report/github.com/eshlykov/ksdl)
+
 A command-line tool for downloading videos from [Kinescope](https://kinescope.io). Given a list of video IDs, it downloads each one, decrypts the audio track, and produces a merged MP4 file.
 
 ## How it works
