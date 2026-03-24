@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"ksdl/internal/config"
+	"github.com/eshlykov/ksdl/internal/config"
 )
 
 func TestRunner_CheckTools(t *testing.T) {

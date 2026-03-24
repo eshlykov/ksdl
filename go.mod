@@ -1,4 +1,4 @@
-module ksdl
+module github.com/eshlykov/ksdl
 
 go 1.25
 

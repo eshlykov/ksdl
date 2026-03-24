@@ -13,10 +13,10 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"ksdl/internal/config"
-	"ksdl/internal/downloader"
-	"ksdl/internal/kinescope"
-	"ksdl/internal/media"
+	"github.com/eshlykov/ksdl/internal/config"
+	"github.com/eshlykov/ksdl/internal/downloader"
+	"github.com/eshlykov/ksdl/internal/kinescope"
+	"github.com/eshlykov/ksdl/internal/media"
 )
 
 func setupLogger(verbose bool) {

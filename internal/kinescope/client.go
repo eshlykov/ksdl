@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"strings"
 
-	"ksdl/internal/config"
+	"github.com/eshlykov/ksdl/internal/config"
 )
 
 var (

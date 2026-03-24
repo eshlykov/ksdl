@@ -57,6 +57,6 @@ testing; use `httptest` or `os.Chtimes`-style test setup instead.
 ## Module
 
 ```
-module ksdl
+module github.com/eshlykov/ksdl
 go 1.25
 ```

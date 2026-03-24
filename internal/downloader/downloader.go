@@ -14,8 +14,8 @@ import (
 	"strconv"
 	"strings"
 
-	"ksdl/internal/kinescope"
-	"ksdl/internal/media"
+	"github.com/eshlykov/ksdl/internal/kinescope"
+	"github.com/eshlykov/ksdl/internal/media"
 )
 
 const (

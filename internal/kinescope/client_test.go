@@ -9,7 +9,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"ksdl/internal/config"
+	"github.com/eshlykov/ksdl/internal/config"
 )
 
 func TestSelectBestStream(t *testing.T) {

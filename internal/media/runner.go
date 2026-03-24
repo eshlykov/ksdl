@@ -10,7 +10,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"ksdl/internal/config"
+	"github.com/eshlykov/ksdl/internal/config"
 )
 
 // ToolNotFoundError is returned when a required external tool is not found in PATH.
