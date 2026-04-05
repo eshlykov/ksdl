@@ -139,8 +139,8 @@ Click that request.
 
 ```
 /v1/vod/.../acquire/sample-aes/87a5f6449f218340af79ae61c8895f69?token=
-                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-                                This is the KID — copy it
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                               This is the KID — copy it
 ```
 
 **B. Get the Key** — click the **Response** tab of that request. You'll see a short string, e.g.:
